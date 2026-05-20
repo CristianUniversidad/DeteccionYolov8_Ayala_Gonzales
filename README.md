@@ -1,0 +1,1 @@
+# DeteccionYolov8_Ayala_Gonzales
